@@ -19,5 +19,8 @@ class CarMaker:
         self.nickname = nickname
 
     def add_year(self, year):
-        pass
+        '''
+        Adds a year of foundation to the maker
+        '''
+        self.year = year
 
